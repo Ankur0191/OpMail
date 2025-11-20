@@ -1,0 +1,13 @@
+Collections:
+- opportunities (documents of scraped items)
+  - id: auto or hashed link
+  - title
+  - link
+  - summary
+  - source
+  - date_scraped (timestamp)
+  - posted_date (optional)
+  - classifier_score (float)
+  - relevant (bool)
+  - notified (bool)
+- seen_opportunities: (optional duplicate store)

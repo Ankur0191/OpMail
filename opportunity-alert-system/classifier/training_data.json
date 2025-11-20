@@ -1,0 +1,8 @@
+[
+  {"text": "Apply to T-Hub incubator cohort for startups. Funding and mentorship.", "label": "relevant"},
+  {"text": "Startup India offers grant for early-stage edtech startups", "label": "relevant"},
+  {"text": "YC Startup School office hours and blog post", "label": "not_relevant"},
+  {"text": "Company hires senior backend engineer", "label": "not_relevant"},
+  {"text": "Pitch competition: university startup challenge with cash prizes", "label": "relevant"},
+  {"text": "New blog: why remote work is trending", "label": "not_relevant"}
+]

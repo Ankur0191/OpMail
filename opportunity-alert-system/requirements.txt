@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+google-cloud-firestore
+scikit-learn
+joblib
+python-dateutil
+sendgrid==6.12.0
+python-telegram-bot==21.9
+protobuf==3.20.*
