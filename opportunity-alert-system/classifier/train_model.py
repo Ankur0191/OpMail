@@ -30,6 +30,8 @@ def train():
     dump(pipeline, MODEL_PATH)
     print("Saved model to", MODEL_PATH)
     print("Test accuracy:", score)
+    print("Train labels:", set(y_train))
+    print("Test labels:", set(y_test))
 
 if __name__ == "__main__":
     train()
